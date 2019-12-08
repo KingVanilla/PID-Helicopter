@@ -29,8 +29,14 @@ We referenced an excellent example from the blog [Time to Explore](https://timet
   
 #### PID algoritm
   We referenced [Dr. Varodom Toochinda's 2011 publication "Digital PID Controllers"](https://openlab.citytech.cuny.edu/?get_group_doc=4784/1393258757-DigitalPIDControllers_2011.pdf) to implement a PID algorithm in Verilog.  Although he did give an example in Verilog based off of C code implementation, we had to heavily modify the algorithm for our application.
-  ##### Tuning
+  
+##### Tuning
    A PID algorithm has 3 constants which need to be tuned to the specific system they are applied in.  Ideally, the first output change of a PID controller should be the biggest, and each adjustment thereforth should be smaller than the last, eventually settling on the desired setpoint.  Adjusting the Proportional, Integral, and Derivative values requires maintaining a delcate balanced between speed and accuracy.  It is not desirable to have a system which adjusts so many times that it's slow, but you also don't want to it to be so quick that your output overshoots the setpoint.  This required lots of trial and error.
 
 ## Conclusion
+ We discussed our project design, project goals, and problem-solving methodology for our ECE287 Final Project "PID Helicopter".
+
+## Citations
+[VGA Output - Time to Explore Blog by Will Green](https://timetoexplore.net/blog/arty-fpga-vga-verilog-01) <br>
+[PID Algorithm - Digital PID Controllers by Dr. Varodom Toochinda](https://openlab.citytech.cuny.edu/?get_group_doc=4784/1393258757-DigitalPIDControllers_2011.pdf)
 
