@@ -37,7 +37,7 @@ We referenced an excellent example from the blog [Time to Explore](https://timet
  We discussed our project design, project goals, and problem-solving methodology for our ECE287 Final Project "PID Helicopter".
  
  ## How to control
-[inputs.jpg](https://github.com/KingVanilla/PID-Helicopter/blob/master/Inputs.jpg)
+![inputs.jpg](https://github.com/KingVanilla/PID-Helicopter/blob/master/Inputs.jpg)
 
 ## Citations
 [VGA Output - Time to Explore Blog by Will Green](https://timetoexplore.net/blog/arty-fpga-vga-verilog-01) <br>
