@@ -1,7 +1,7 @@
 # PID-Helicopter
 
-ECE287 Final Project for Dr. Jamieson's section B
-#### Authors: Cole Hengstebeck ('22) & Owen Hardy ('22)
+ECE287 Final Project for Dr. Jamieson's section B <br>
+<b>Authors: Cole Hengstebeck ('22) & Owen Hardy ('22)</b>
 
 ## Project Description
 Our project implements a VGA output which displays a graphic of a helicopter which changes position through a PID algorthim to match the y-position of a shiftable horizontal setpoint.
