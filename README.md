@@ -36,10 +36,10 @@ We referenced an excellent example from the blog [Time to Explore](https://timet
 ## Conclusion
  We discussed our project design, project goals, and problem-solving methodology for our ECE287 Final Project "PID Helicopter".
  
- ## How to control
+ ## How to control/[Video Demo](https://youtu.be/cdf8_5WMolk)
 ![inputs.jpg](https://github.com/KingVanilla/PID-Helicopter/blob/master/inputs1.jpg)
 
-## [Video Demo](https://youtu.be/cdf8_5WMolk)
+## 
 
 
 ## Citations
