@@ -39,8 +39,8 @@ We referenced an excellent example from the blog [Time to Explore](https://timet
  ## How to control
 ![inputs.jpg](https://github.com/KingVanilla/PID-Helicopter/blob/master/inputs1.jpg)
 
-## Video Demo
- https://youtu.be/cdf8_5WMolk
+## [Video Demo](https://youtu.be/cdf8_5WMolk)
+
 
 ## Citations
 [VGA Output - Time to Explore Blog by Will Green](https://timetoexplore.net/blog/arty-fpga-vga-verilog-01) <br>
